@@ -1,4 +1,4 @@
-# ambeego_test
+# Maxitivity
 
 A new Flutter project.
 
